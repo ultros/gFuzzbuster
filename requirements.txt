@@ -1,0 +1,4 @@
+fpdf==1.7.2
+requests==2.21.0
+PySide6~=6.4.1
+PyQt6~=6.4.0
